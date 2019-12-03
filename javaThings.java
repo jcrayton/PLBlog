@@ -5,7 +5,7 @@ public static void main (args[]){
   String stringy = "hi there!";
 
   for(int i = 1; i < 5; i++){
-    System.out.println("gretting " + i);
+    System.out.println("greeting " + i);
   }
   String scream = ""
   while scream.length() < 4{
